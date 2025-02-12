@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFC0CB;
+    text-align: center;
+    color: #800020;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.message {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+button {
+    background-color: #FF69B4;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #FF1493;
+}
+
+.hidden {
+    display: none;
+}
+
+#response {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff3366;
+}
+
+.labubu-img {
+    width: 100px;
+    height: auto;
+    margin-bottom: 20px;
+}
